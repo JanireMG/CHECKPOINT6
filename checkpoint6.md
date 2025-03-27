@@ -155,7 +155,7 @@ Se puede utilizar como sistema de almacenamiento debido a la funcionalidad ``Gri
 - Ejecucion de JavaScript del lado del servidor.<br>
 ``MongoDB`` puede realizar consultas utilizando JS, enviándolas directamente a la base de datos para ser ejecutadas. Facilita la manipulación de datos y y realización de consultas sin la necesidad de enviar esos datos a una aplicación externa para su procesamiento.
 
-![MongoDB](https://kockpit.in/blogs-community/assets/uploads/16bcd0116efe156e2efba32903f17d05.webp)
+![MongoDB](https://www.nisum.com/hubfs/Sql%20vs%20NoSQL.svg)
 
 
 # ***¿Qué es una API?***
