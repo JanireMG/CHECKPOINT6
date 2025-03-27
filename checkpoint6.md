@@ -376,3 +376,4 @@ def MyGreet():
 
 MyGreet()#Llamamos a la funcion decorada
 ```
+![Decorator](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Schaubilder/representacion-grafica-del-patron-decorator.png)
