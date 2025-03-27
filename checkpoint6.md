@@ -354,7 +354,10 @@ def __next__(self):
 
 # ***¿Qué es un decorador de python?***
 
-Un ``decorador de Python`` es una función que permite modificar o extender el comportamiento de una función, clase o método sin cambiar su código original. Hacen que el **código más legible**. Este toma una funcion como argumento y la 'envuelve' en una funcion que modifica o extiende su comportamiento. Despues devuelve una nueva funcion.
+Un ``decorador de Python`` es una función que permite modificar o extender el comportamiento de otra función, clase o método sin cambiar su código original. Es muy útil cuando queremos añadir funcionalidades adicionales a una función o método de manera flexible y reutilizable.<br>
+
+## Cómo funciona un decorador
+Un ``decorador`` **envuelve** la función original en una nueva función. Dentro de esa función se pueden agregar comportamientos adicionales antes o después de llamar a la funcion original. El ``decorador`` devuelve la función modificada, reemplazando la original.
 
 ## Sintaxis
 Para aplicar un decorador en una función usamos el símbolo ``@``.
