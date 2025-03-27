@@ -189,7 +189,7 @@ Por ejemplo la API de Vueling.<br>
 
 
 [API](https://www.sydle.com/es/blog/api-6214f68876950e47761c40e7) <br>
-![Funcionamiento API](<https://outviocmsassets.s3.eu-central-1.amazonaws.com/cl2t0lc4l000w7b7t0yli356j.jpg>)
+![Funcionamiento API](https://apiaddicts-web.s3.eu-west-1.amazonaws.com/wp-content/uploads/2022/08/12150313/1_7yAihbfGrMCzjUzIF2UitA-768x377.png)
 
 
 # ***¿Qué es Postman?***
